@@ -21,4 +21,4 @@ Aplicativo para controle de compras desenvolvido em .NET MAUI.
 - XAML
 
 ## 📌 Disciplina
-Desenvolvimento de Sistemas III - Agenda 3
+Desenvolvimento de Sistemas III - Agenda 4
